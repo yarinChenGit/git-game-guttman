@@ -1,0 +1,19 @@
+Very good!
+You made it to level 4!
+This file lists the files git ignores - hence the name gitignore.
+For example - you don't want to store the entire database in git - git isn't built for big files.
+Lets say you keep the database for your project as a file called database.db
+You can add it to the gitignore file and git will ignore it - git will act as if it is not there.
+For example, just write the following in the gitignore file:
+
+database.db
+
+It's that easy!
+You can also ignore entire directiories (folders) by writing the directory name in the gitignore file.
+For example, if you have a directory called "images" and you want to ignore it, just write:
+
+images
+
+Now, when you won't need to stage, commit or push the database.db file or the images directory.
+
+For the next level - The hint is in the "hint.txt" file (obviously)- but something looks "diff"erent.
