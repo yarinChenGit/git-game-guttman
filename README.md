@@ -4,6 +4,6 @@
 
 not even close.
 
-## If you came from `level <enter level>`
+## If you came from our hint
 
-You are correct. But make sure that you came from the correct level - no cheating.
+You are correct. But make sure that you came from us and not from the wrong level.
